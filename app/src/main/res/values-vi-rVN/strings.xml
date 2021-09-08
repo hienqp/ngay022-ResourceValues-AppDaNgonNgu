@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Da Ngon Ngu Vi Du</string>
+    <string name="textView_tieu_de">Phiếu Thông Tin</string>
+    <string name="hint_ho_ten">Nhập Họ Tên</string>
+    <string name="hint_email">Nhập Email</string>
+    <string name="hint_so_dien_thoai">Nhập Số Điện Thoại</string>
+    <string name="name_button_xac_nhan">Xác Nhận</string>
+    <string name="text_chao_ban">Chào bạn</string>
+    <string name="text_so_dien_thoai">Số Điện Thoại</string>
+</resources>
